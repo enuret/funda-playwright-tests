@@ -1,0 +1,21 @@
+{
+  "name": "funda",
+  "version": "1.0.0",
+  "description": "In this test assignment I was focused on smoke tests of the `https://funda.nl` site. During this task\r - I made some assumptions regarding which critical paths are the most important based on my subjective opinion and common sense\r - I did not test any features that involve changing the server state\r - I've noticed that the layout of the search filters depends on the screen size, that's why I've included different configurations of the screen\r - I did not include tests for the mobile layout since it would require additional research\r - I wrote these tests as smoke tests to verify the basic functionality",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0",
+    "dotenv": "^17.3.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "directories": {
+    "test": "tests"
+  }
+}

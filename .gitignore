@@ -1,0 +1,12 @@
+.env
+
+# Node dependencies
+node_modules/
+
+# Playwright
+test-results/
+playwright-report/
+playwright/.cache/
+
+# OS / Editor
+.vscode/

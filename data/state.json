@@ -1,0 +1,1880 @@
+{
+  "cookies": [
+    {
+      "name": "_GRECAPTCHA",
+      "value": "09AKhCRwgpqlB6XPkYYASKlTvg10AfKdq4MvEMc1aeaRMu8CVl0cPGShD5UgaNC75a_DE-DbME0UOCZTEP3hY0LYY",
+      "domain": "www.google.com",
+      "path": "/recaptcha",
+      "expires": 1789148503.084751,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bm_sv",
+      "value": "982B1FAB07B294656351EBF54F752AC1~YAAQ2mMXAtH5PMScAQAAONaW8h8b27khVXSQ3iqkT3pCS92db0z4MWQnKP1UIzC4NpE/cp8UPr0W8S/Yg8L75cfoddcKZZ/vHkdcpQPkrn5qhjmawIkxOWEGLvUSeJgP8qVJGc7aOLxrwXcsvSyp66LsTshtSDPcbEscR5LPeY2q9XCrYAGx9BnSF0xYWZDrUlven9txNyeofXdm0UdwTMUKpfPqFfAKHr8yAuHmAGWZnuBYmYWhbg4RreJgOA==~1",
+      "domain": ".funda.nl",
+      "path": "/",
+      "expires": 1773603697.952763,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1211635534.1773596498",
+      "domain": ".funda.nl",
+      "path": "/",
+      "expires": 1808156606.476411,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ak_bmsc",
+      "value": "4C31E225A4D06D23907E6A04A99B4C7D~000000000000000000000000000000~YAAQ2mMXAkf6PMScAQAA19eW8h8WNPetRp+VqraqPEHOtxnNU7DS1dViLojqmCWaO2DPkDcaUG/3xC5uTGPQvkAEep4i40LO2S+X0cXldBMXn9Wsgo4uy0q/18WNWWBZ1JWnhgxFH7zgaSKQjQKs5lHlkFMxKsm7B7F0MujcK7UJhcqkMl3hXUVG/XJy87qoCE590nu1ZxAkfFrSSaOzsu76NO3SAl0ZXIYsPdndfiUZlalY+K/bKBCsEnfG+GMECPvTkXnkRZPIBTm4y+Fvpbt/mF7okoUzoouLhYhZF1HkCuDtiz1CRp3gqqh7B4ulBUYHjLM3n1Exj9AvhTWiS3jk6YAAmmVRpK35AeL8HHHS6E8cbSmC6/epwk7KRQoSoTyEt0sYSGDZcZDk575AdOoHbPJPh36+rG4tPshe8ZvkHax/FX3Ol8yrRG2zscC0124byW83ubPAjx8MnEnTR62xVtcAIojSkkz8dzPICP66uU8pvo3p/rZc7Il8sBA=",
+      "domain": ".funda.nl",
+      "path": "/",
+      "expires": 1773603697.367815,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "didomi_token",
+      "value": "eyJ1c2VyX2lkIjoiMTljZjI5NmQtODAyYi02OGViLTlmOWYtYjhlNTNkNGM2YTM3IiwiY3JlYXRlZCI6IjIwMjYtMDMtMTVUMTc6NDE6MzcuOTIyWiIsInVwZGF0ZWQiOiIyMDI2LTAzLTE1VDE3OjQxOjQwLjAyN1oiLCJ2ZW5kb3JzIjp7ImVuYWJsZWQiOlsiZ29vZ2xlIiwiYzpxdWFsdHJpY3MtYWM2TUpXZ0EiLCJjOmdvb2dsZWFuYS00VFhuSmlnUiIsImM6ZnVuZGFwYXJ0LWlCTmdYV3dYIiwiYzpkYXRhZG9nLXJkdFk3QW1FIiwiYzpmdW5kYWZ1bmMtQUhoRDJZcTMiLCJjOnNlZ21lbnQtR1FwV1BRaEsiLCJjOmdvb2dsZWFuYS1qYWduNk5uZyIsImM6b3B0aW1pemVseS04MjJBNnFOZyIsImM6Y2xvdWRmbGFyZS04Zm5hM0VIQSIsImM6Z29vZ2xldGFnLWVFWVBqMzJaIiwiYzpob3RqYXItVDgyanRDVXEiLCJjOnNhbGVzZm9yY2Uta0s3cnBleFkiLCJjOmluZy1qcVg2ZDN0WSJdfSwicHVycG9zZXMiOnsiZW5hYmxlZCI6WyJhZHZlcnRpc2VtZW50LWdyb3VwIiwicGVyc29uYWxpc2F0aW9uLWdyb3VwIl19LCJ2ZXJzaW9uIjoyLCJhYyI6IkV0LUFJQkVrRURBS01BbHZnQUFBLkFBQUEifQ==",
+      "domain": ".funda.nl",
+      "path": "/",
+      "expires": 1805218900,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "didomi_consent",
+      "value": "analytical-group,advertisement-group,functional-group,personalisation-group,cookies,select_basic_ads,create_ads_profile,select_personalized_ads,create_content_profile,select_personalized_content,measure_ad_performance,market_research,improve_products,use_limited_data_to_select_content,measure_content_performance,",
+      "domain": ".funda.nl",
+      "path": "/",
+      "expires": 1805218900.086318,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "fcvc",
+      "value": "274Myh85uLA1eYnSuNmjYtj/Gg3RfiZUsX2tFzRR4FoF4VFbMKiOZtctQ6HqaN8TVCZ",
+      "domain": ".funda.nl",
+      "path": "/",
+      "expires": 1774204989.136708,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "optimizelyEndUserId",
+      "value": "oeu1773596589599r0.044123336708440264",
+      "domain": ".funda.nl",
+      "path": "/",
+      "expires": 1789148605,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_hjSession_2869769",
+      "value": "eyJpZCI6IjRmZTA1NWU3LTk0NjAtNDE0MS1iZWQ1LTU0ODdhZTM1MTIyMyIsImMiOjE3NzM1OTY1ODk3MjksInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MX0=",
+      "domain": ".funda.nl",
+      "path": "/",
+      "expires": 1773598389,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ajs_anonymous_id",
+      "value": "7f418934-2d3c-448d-a30f-8b890c24342b",
+      "domain": ".funda.nl",
+      "path": "/",
+      "expires": 1805132606,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ajs_user_id",
+      "value": "",
+      "domain": ".funda.nl",
+      "path": "/",
+      "expires": 1805132606,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pubcid",
+      "value": "63002efc-e89b-4a3f-87e5-8dfb4a59d8ef",
+      "domain": ".funda.nl",
+      "path": "/",
+      "expires": 1805132589,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pubcid_cst",
+      "value": "2yyXLJEs8g%3D%3D",
+      "domain": ".funda.nl",
+      "path": "/",
+      "expires": 1805132589,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_lr_retry_request",
+      "value": "true",
+      "domain": "www.funda.nl",
+      "path": "/",
+      "expires": 1773600189,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_lr_env_src_ats",
+      "value": "false",
+      "domain": "www.funda.nl",
+      "path": "/",
+      "expires": 1776188589,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cc_dc",
+      "value": "1",
+      "domain": ".crwdcntrl.net",
+      "path": "/",
+      "expires": 1796922721.109653,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cc_id",
+      "value": "58d5c9323e1d7ac8a084cc0a611f9cff",
+      "domain": ".crwdcntrl.net",
+      "path": "/",
+      "expires": 1796922721.109778,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cc_cc",
+      "value": "\"ACZ4nGNQMLVIMU22NDYyTjVMMU9Mtkg0sDBJTjZINDM0TLNMTktjAILMbe%2FXMiAAAGk3C%2F0%3D\"",
+      "domain": ".crwdcntrl.net",
+      "path": "/",
+      "expires": 1796924590.109849,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cc_aud",
+      "value": "\"ABR4nGNgYGDI3PZ%2BLQMcAAAhsQK8\"",
+      "domain": ".crwdcntrl.net",
+      "path": "/",
+      "expires": 1796924590.109892,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uid",
+      "value": "8871c1e5-9af0-408d-87ae-5ee55c990a2c",
+      "domain": ".criteo.com",
+      "path": "/",
+      "expires": 1807292590.110732,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "panoramaId_expiry",
+      "value": "1774201389589",
+      "domain": ".funda.nl",
+      "path": "/",
+      "expires": 1774201389,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cc_id",
+      "value": "58d5c9323e1d7ac8a084cc0a611f9cff",
+      "domain": ".funda.nl",
+      "path": "/",
+      "expires": 1796924590,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "panoramaId",
+      "value": "1981f77b6b81afd0d608bc5bd636185ca02cccc760ece62eee0bcc51d8866476",
+      "domain": ".funda.nl",
+      "path": "/",
+      "expires": 1774201389,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "pbjs-unifiedid",
+      "value": "%7B%22TDID_LOOKUP%22%3A%22FALSE%22%2C%22TDID_CREATED_AT%22%3A%222026-03-15T17%3A43%3A09%22%7D",
+      "domain": "www.funda.nl",
+      "path": "/",
+      "expires": 1778780590,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "pbjs-unifiedid_cst",
+      "value": "2yyXLJEs8g%3D%3D",
+      "domain": "www.funda.nl",
+      "path": "/",
+      "expires": 1778780590,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.860471495.1773596590",
+      "domain": ".funda.nl",
+      "path": "/",
+      "expires": 1781372590,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sessionstarted",
+      "value": "true",
+      "domain": "www.funda.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "XANDR_PANID",
+      "value": "tZDAsV94OfyA5RM5wGEtge08iXrdUdiS9KmzTkprj8u9Ekp9cT4iTyikWA185QOdVYV4ZcINxrK3Z8ABO19r3tzjhnvFxe3jIKP9wbQ2fIQ.",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1781372607.246412,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://funda.nl",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "uuid2",
+      "value": "5040271952322502456",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1781372607.246477,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "st_uid",
+      "value": "019cf298-40d4-774a-8518-1ab5cd95d652",
+      "domain": ".seedtag.com",
+      "path": "/",
+      "expires": 1804700607.210436,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "st_ssp",
+      "value": "Y291bnRyeV9uYW1lPVRoZSBOZXRoZXJsYW5kcyZjb3VudHJ5X2lzbzI9TkwmY291bnRyeV9pc28zPU5MRCZyZWdpb25fbmFtZT1Ob3J0aCBIb2xsYW5kJnJlZ2lvbl9pc28yPU5IJmNpdHlfaWQ9Mjc1OTc5NCZjaXR5X25hbWU9QW1zdGVyZGFtJmxvbmdpdHVkZT00Ljg5MTMmbGF0aXR1ZGU9NTIuMzY0JnppcD0xMDE3",
+      "domain": ".seedtag.com",
+      "path": "/",
+      "expires": 1776188590.903169,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1805132607.382611,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://funda.nl",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "khaos",
+      "value": "MMS1M7K9-1P-EVD8",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1805132607.558585,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid",
+      "value": "cdc45495-ce75-4edf-bd0c-dc8369f03bb0",
+      "domain": ".360yield.com",
+      "path": "/",
+      "expires": 1781372607.216908,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "c",
+      "value": "1773596590",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1805132591.328261,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid_lu",
+      "value": "1773596590",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1805132591.377241,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid",
+      "value": "8c2cb0be-cf0e-4368-a173-eef8fb991411",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1805132591.376957,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TDID",
+      "value": "6c471144-b067-4b7f-927e-446347f4e344",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1805132594.780084,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ayl_visitor",
+      "value": "d298b6855d8d44ec457e62a1ccf7a263",
+      "domain": ".omnitagjs.com",
+      "path": "/",
+      "expires": 1776188591.332546,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "khaos_p",
+      "value": "MMS1M7K9-1P-EVD8",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1805132607.558643,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://funda.nl",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "CMID",
+      "value": "abbvrrmqPTkAI0NsAEEwpAAA",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1805132607.352547,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPS",
+      "value": "2236",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1781372591.336435,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPRO",
+      "value": "2236",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1781372607.352649,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "i",
+      "value": "0369c025-5c3f-4046-8529-97546960447e|1773596590",
+      "domain": ".openx.net",
+      "path": "/",
+      "expires": 1805132591.402932,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "viewer_token",
+      "value": "d0443275-f880-423d-a5f0-a7a5b8cab9c2",
+      "domain": ".csync.loopme.me",
+      "path": "/",
+      "expires": 1781372607.234283,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uid",
+      "value": "2103429273155418266",
+      "domain": ".adform.net",
+      "path": "/",
+      "expires": 1778780607.158005,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "g",
+      "value": "uXonvGLrRAOdgqHk3NXM_1773596590896",
+      "domain": ".creativecdn.com",
+      "path": "/",
+      "expires": 1805132591.402479,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ts",
+      "value": "1773596590",
+      "domain": ".creativecdn.com",
+      "path": "/",
+      "expires": 1805132591.402574,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://funda.nl",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "pd",
+      "value": "v2|1773596590|guvNiygen0wk",
+      "domain": ".openx.net",
+      "path": "/",
+      "expires": 1774892591.403021,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUnZZhd4iur8fPedjQnVz4ddAh6GYZ2RIxp9XCtDRPdCr2iy-w0qv74W7QNQAOk",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1807292591.4829,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KADUSERCOOKIE",
+      "value": "5E492E60-D7E9-4B71-8222-5B1A3A2390F6",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1805132597.673543,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bito",
+      "value": "AAClR07Tbd8AAAJYE4drSA",
+      "domain": ".bidr.io",
+      "path": "/",
+      "expires": 1807710207.392293,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bitoIsSecure",
+      "value": "ok",
+      "domain": ".bidr.io",
+      "path": "/",
+      "expires": 1807710191.50968,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OAU",
+      "value": "OPU57a79e8e1092447ab32ea710e6d8b171",
+      "domain": ".opera.com",
+      "path": "/",
+      "expires": 1805132593.321733,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__ktpct",
+      "value": "1",
+      "domain": ".adsby.bidtheatre.com",
+      "path": "/",
+      "expires": 1773597191.866155,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "mc",
+      "value": "69b6efaf-58d87-38e55-ebfac",
+      "domain": ".quantserve.com",
+      "path": "/",
+      "expires": 1807810991.858802,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pid",
+      "value": "BSRFBsaZWDaZBSBFWia0BsJsES_kWsB-BSR-WDBABifABfrr",
+      "domain": ".xplosion.de",
+      "path": "/",
+      "expires": 1805132591.8736,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pid_short",
+      "value": "5DW7c2u0_an-6iy865B-HCy9__rr",
+      "domain": ".xplosion.de",
+      "path": "/",
+      "expires": 1805132591.873718,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pid_signature",
+      "value": "BS_3HqtIwDU-wDw3WqwZWiB3EQBFWQHdEi_kES5DBSWlwq7-HSHDH_rr",
+      "domain": ".xplosion.de",
+      "path": "/",
+      "expires": 1805132591.873757,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ep",
+      "value": "abbvr76ZqGMrELz6qA7q",
+      "domain": ".xplosion.de",
+      "path": "/",
+      "expires": 1805132591.873793,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sp",
+      "value": "CgkIuYoDEgMQ2RE=",
+      "domain": ".quantserve.com",
+      "path": "/",
+      "expires": 1781372591.886761,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__io_cid",
+      "value": "0d68ebe556c3a885e5bfea8879a1ec27120fad1e",
+      "domain": ".bfmio.com",
+      "path": "/",
+      "expires": 1805132591.895781,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__kuid",
+      "value": "ab041270-e877-400a-8b4f-627bf35c6d4e.542810591",
+      "domain": ".adsby.bidtheatre.com",
+      "path": "/",
+      "expires": 1774201391.909091,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id",
+      "value": "s%3A0-d22deac3-9061-58e6-45c9-3bad2e007703.wS8GhMoTGhl%2B6vAyvT%2BGCow9oxiX6aDQXyY9WYgx8wU",
+      "domain": "sync.srv.stackadapt.com",
+      "path": "/",
+      "expires": 1805132592.100435,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id",
+      "value": "s%3A0-d22deac3-9061-58e6-45c9-3bad2e007703.wS8GhMoTGhl%2B6vAyvT%2BGCow9oxiX6aDQXyY9WYgx8wU",
+      "domain": ".srv.stackadapt.com",
+      "path": "/",
+      "expires": 1805132592.100587,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id-v2",
+      "value": "s%3A0i3qw5BhWOZFyTutLgB3A1Kpg6c.Eu%2BEPrt%2FtNx%2FsY9sDPeeTlb5icSYcnAuQw3BT6VFFCo",
+      "domain": "sync.srv.stackadapt.com",
+      "path": "/",
+      "expires": 1805132592.100664,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id-v2",
+      "value": "s%3A0i3qw5BhWOZFyTutLgB3A1Kpg6c.Eu%2BEPrt%2FtNx%2FsY9sDPeeTlb5icSYcnAuQw3BT6VFFCo",
+      "domain": ".srv.stackadapt.com",
+      "path": "/",
+      "expires": 1805132592.100716,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "obuid",
+      "value": "773bc9f3-e297-40db-8be7-49faefa44bf7",
+      "domain": ".outbrain.com",
+      "path": "/",
+      "expires": 1781372592.009028,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cu",
+      "value": "9d3ac75b-9e7c-4478-8035-e828d41d7c67|1773596591480",
+      "domain": ".ipredictive.com",
+      "path": "/",
+      "expires": 1805132607.517287,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid",
+      "value": "94c89e12-1bc7-472f-a241-1c1b237871a6",
+      "domain": ".creative-serving.com",
+      "path": "/",
+      "expires": 1804700592.083088,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "c",
+      "value": "1773596591",
+      "domain": ".creative-serving.com",
+      "path": "/",
+      "expires": 1804700592.051018,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid_lu",
+      "value": "1773596591",
+      "domain": ".creative-serving.com",
+      "path": "/",
+      "expires": 1804700592.083244,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id-v3",
+      "value": "s%3AAQAKIKgP8Yp3Ktmmzt3lmhOI4W0YZ2K2_s81Tmb06426rCllEHwYBCCv39vNBjABOgRTMEsuQgRsQ_De.unm0ejfALKaCCdaDnl44H2NJ41bfjAHwm45iIo9wAuM",
+      "domain": "sync.srv.stackadapt.com",
+      "path": "/",
+      "expires": 1805132592.100787,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id-v3",
+      "value": "s%3AAQAKIKgP8Yp3Ktmmzt3lmhOI4W0YZ2K2_s81Tmb06426rCllEHwYBCCv39vNBjABOgRTMEsuQgRsQ_De.unm0ejfALKaCCdaDnl44H2NJ41bfjAHwm45iIo9wAuM",
+      "domain": ".srv.stackadapt.com",
+      "path": "/",
+      "expires": 1805132592.100837,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1781372607.558774,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://funda.nl",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "suid",
+      "value": "28D93C1B26F245D3BF5B954EE29E3C43",
+      "domain": ".simpli.fi",
+      "path": "/",
+      "expires": 1805218992.233189,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "anj",
+      "value": "dTM7k!M4.gEVNsVF']wIg2E>@myKf=!]tbPl@/ir)v>J2UZ+=o_EKU?Z8aCU[p$.6<WYpiHKqC]_BR>COxD'[V]tLZT*GJJvr]s[<QG=%9sks1IQx:>IA+J>#wrI0L]$gV$6e]UaUL^x)N[UD!!'I_.NNn=",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1781372592.293668,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uids",
+      "value": "eyJ0ZW1wVUlEcyI6eyJydWJpY29uIjp7InVpZCI6IjEiLCJleHBpcmVzIjoiMjAyNi0wNi0xM1QxNzo0MzoxMVoifX0sImJpcnRoZGF5IjoiMjAyNi0wMy0xNVQxNzo0MzoxMVoifQ==",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1781372592.293732,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "IDSYNC",
+      "value": "\"19gq~2utt:19gl~2utt\"",
+      "domain": ".analytics.yahoo.com",
+      "path": "/",
+      "expires": 1805132592.310397,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "A3",
+      "value": "d=AQABBK_vtmkCEM_UpYtMgxTzJd51vr271MsFEgEBAQFBuGnAae2LzSMA_eMDAA&S=AQAAAp301jOJyl4ngKs9Awjv8aM",
+      "domain": ".yahoo.com",
+      "path": "/",
+      "expires": 1805154192.310518,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bcookie",
+      "value": "\"v=2&4930c573-77dc-4b5c-87be-26042e467d23\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1805132592.400367,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "li_gc",
+      "value": "MTswOzE3NzM1OTY1OTE7MjswMjF/1ltzplzWpI9ItQtadgmZsfTY6ZrH/VM2Ri97RuMXWA==",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1789148592.40046,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidc",
+      "value": "\"b=VGST09:s=V:r=V:a=V:p=V:g=3376:u=1:x=1:i=1773596591:t=1773682991:v=2:sig=AQG8FFFY4DL7Y-sPB1hYE51itPj_CxsG\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1773682992.400491,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ad-privacy",
+      "value": "0",
+      "domain": ".amazon-adsystem.com",
+      "path": "/",
+      "expires": 1808156593.370868,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SEUNCY",
+      "value": "C3E54778E33F7584",
+      "domain": ".semasio.net",
+      "path": "/",
+      "expires": 1805132594.507591,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KRTBCOOKIE_945",
+      "value": "19558-773bc9f3-e297-40db-8be7-49faefa44bf7",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1781372592.425015,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KRTBCOOKIE_391",
+      "value": "22924-2103429273155418266&KRTB&23231-2103429273155418266&KRTB&23263-2103429273155418266&KRTB&23481-2103429273155418266",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1776188592.429165,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KRTBCOOKIE_57",
+      "value": "22776-5040271952322502456&KRTB&23339-5040271952322502456",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1781372592.429901,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KRTBCOOKIE_452",
+      "value": "23026-y-57KfZbhE2oCvAX0ka8OLHm8YFJ_ORTl.tb5Ty8c-~A&KRTB&23663-y-57KfZbhE2oCvAX0ka8OLHm8YFJ_ORTl.tb5Ty8c-~A&KRTB&23528-y-57KfZbhE2oCvAX0ka8OLHm8YFJ_ORTl.tb5Ty8c-~A&KRTB&23332-y-57KfZbhE2oCvAX0ka8OLHm8YFJ_ORTl.tb5Ty8c-~A",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1776188592.431799,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KRTBCOOKIE_632",
+      "value": "23041-LHNk3_pJcPLBQNYZEyNqCI8WMjjpPXTVvQ5GnmbAJyE&KRTB&23047-LHNk3_pJcPLBQNYZEyNqCI8WMjjpPXTVvQ5GnmbAJyE&KRTB&23234-LHNk3_pJcPLBQNYZEyNqCI8WMjjpPXTVvQ5GnmbAJyE&KRTB&23361-LHNk3_pJcPLBQNYZEyNqCI8WMjjpPXTVvQ5GnmbAJyE",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1776188592.432801,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KRTBCOOKIE_466",
+      "value": "16530-8c2cb0be-cf0e-4368-a173-eef8fb991411&KRTB&23280-8c2cb0be-cf0e-4368-a173-eef8fb991411",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1781372592.433605,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KRTBCOOKIE_860",
+      "value": "16335-0i3qw5BhWOZFyTutLgB3A1Kpg6c&KRTB&23334-0i3qw5BhWOZFyTutLgB3A1Kpg6c&KRTB&23417-0i3qw5BhWOZFyTutLgB3A1Kpg6c&KRTB&23426-0i3qw5BhWOZFyTutLgB3A1Kpg6c",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1781372592.434578,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KRTBCOOKIE_377",
+      "value": "6810-6c471144-b067-4b7f-927e-446347f4e344&KRTB&22918-6c471144-b067-4b7f-927e-446347f4e344&KRTB&22926-6c471144-b067-4b7f-927e-446347f4e344&KRTB&23031-6c471144-b067-4b7f-927e-446347f4e344",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1781372592.435509,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KRTBCOOKIE_699",
+      "value": "22727-AAClR07Tbd8AAAJYE4drSA&KRTB&22744-AAClR07Tbd8AAAJYE4drSA&KRTB&23649-AAClR07Tbd8AAAJYE4drSA",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1781372592.566026,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KRTBCOOKIE_80",
+      "value": "16514-CAESEF401xf_e9OxD3NcWmtzy0U&KRTB&22987-CAESEF401xf_e9OxD3NcWmtzy0U&KRTB&23025-CAESEF401xf_e9OxD3NcWmtzy0U&KRTB&23386-CAESEF401xf_e9OxD3NcWmtzy0U",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1781372592.594797,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KRTBCOOKIE_153",
+      "value": "19420--d7QM6qB02Pi0oph99CfNveChzDigtBjroTOWII-&KRTB&22979--d7QM6qB02Pi0oph99CfNveChzDigtBjroTOWII-&KRTB&23462--d7QM6qB02Pi0oph99CfNveChzDigtBjroTOWII-&KRTB&23661--d7QM6qB02Pi0oph99CfNveChzDigtBjroTOWII-",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1781372592.569588,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_TS",
+      "value": "1773596592069",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1778780592.601853,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_DID",
+      "value": "c0b6b934-918f-4ce8-84a9-f7c4252a9717",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1778780592.602001,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_3WAY_SYNCS",
+      "value": "",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1778780592.602066,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "DotomiTest",
+      "value": "2373206222080776139",
+      "domain": ".dotomi.com",
+      "path": "/",
+      "expires": 1773596622.622694,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cookie",
+      "value": "7143f72de702e41c",
+      "domain": ".onaudience.com",
+      "path": "/",
+      "expires": 1805132594.805797,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "done_redirects161",
+      "value": "1",
+      "domain": ".onaudience.com",
+      "path": "/",
+      "expires": 1773682992.643506,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KRTBCOOKIE_32",
+      "value": "11175-AQAJcv39d1jf9wJQ7NL0AQEBAQEBAQCd85lJFQEBAJ3zmUkV&KRTB&22715-AQAJcv39d1jf9wJQ7NL0AQEBAQEBAQCd85lJFQEBAJ3zmUkV&KRTB&23519-AQAJcv39d1jf9wJQ7NL0AQEBAQEBAQCd85lJFQEBAJ3zmUkV&KRTB&23632-AQAJcv39d1jf9wJQ7NL0AQEBAQEBAQCd85lJFQEBAJ3zmUkV",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1781372592.665755,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "everest_g_v2",
+      "value": "g_surferid~abbvsAAAzwfudAAz",
+      "domain": ".everesttech.net",
+      "path": "/",
+      "expires": 1805132607.176154,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cid_bee5ec2d0b1b4586a1434509cafcc8f9",
+      "value": "1",
+      "domain": ".ctnsnet.com",
+      "path": "/",
+      "expires": 1805132592.752871,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uid",
+      "value": "4251559775549006277",
+      "domain": ".turn.com",
+      "path": "/",
+      "expires": 1789148607.328604,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KRTBCOOKIE_22",
+      "value": "14911-4251559775549006277&KRTB&23150-4251559775549006277&KRTB&23527-4251559775549006277&KRTB&23629-4251559775549006277",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1776188592.853692,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "rud",
+      "value": "H4sIAAAAAAAA_-MSNjU0sDSzMDUzMTQ1NjAxNjQ3MhbiM9RNMo93ygzxD4_IczECAAEilpAlAAAA",
+      "domain": ".rfihub.com",
+      "path": "/",
+      "expires": 1807292592.866268,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "eud",
+      "value": "H4sIAAAAAAAA_9vEyGtobm5samlmamlkbGYMAN1r5ncQAAAA",
+      "domain": ".rfihub.com",
+      "path": "/",
+      "expires": 1807292592.866477,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ruds",
+      "value": "H4sIAAAAAAAA_-MSNjU0sDSzMDUzMTQ1NjAxNjQ3MhbiM9RNMo93ygzxD4_IczECAAEilpAlAAAA",
+      "domain": ".rfihub.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "rlas3",
+      "value": "AY9q4yIK1mE/zxGmQvgzdhHGsc4SWA34FE+ldXtJUco=",
+      "domain": ".rlcdn.com",
+      "path": "/",
+      "expires": 1805132593.060669,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "b",
+      "value": "69B6EFB0A919F96DF12A29A8_",
+      "domain": ".blismedia.com",
+      "path": "/",
+      "expires": 1805136593.052167,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pxrc",
+      "value": "CLDf280GEgUI6AcQABIGCKS3KxAAEgYIkLwrEAA=",
+      "domain": ".rlcdn.com",
+      "path": "/",
+      "expires": 1778780593.060947,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "demdex",
+      "value": "15875996197717474872456944331982120984",
+      "domain": ".demdex.net",
+      "path": "/",
+      "expires": 1789148593.210502,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "EE",
+      "value": "\"4c0a052f91b178fb1a6273fbb879d78b\"",
+      "domain": ".exelator.com",
+      "path": "/",
+      "expires": 1783964593.224522,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "dpm",
+      "value": "15875996197717474872456944331982120984",
+      "domain": ".dpm.demdex.net",
+      "path": "/",
+      "expires": 1789148593.210593,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "udo",
+      "value": "\"gAAAAAQAAAg0KLUv%252FWA0ByUjAIY82ErgkKoOMKwHHMyDvATHGqCBJ7RH%252BD8oV8bjL6CQGVfp9H%252BoDdWF646HliREQ1b1TjMrAxxeT8god0n0IzHPYL72A93hPErmsTr%252BW88AsQDEAGO4VaMI009kmtZfbQuWYz63XI5X9sXzQB5aakRJJJOnTCSM93XMMHh92xIX1OQv8rrWXVg2CUukpW16En8SXuNKpSw9UyWJeUJedXwh76uVPoWaJxMfkYxUmiFPUzvk5kjy%252BsVBF%252BNFv1BoOZS6z2gMwICuMqgPCTRkYC0okaFgBYNVR7DgBDakIVjFy8mgZvIw43NdBDAQAkHXCeg6Cg1sROg6sHRdWaCbmZmZ6Q50XQeAa16k1H1WKmVsK8O0UgTEDRGarmsx07KN3OsZSyY5pj4ESVDcP4y3OP%252FPbs6%252FmaL%252BTQ%252BTQkz7n3wXK5IjCAaKYfzBguDDnkVHPlV9TT5JZDfIVviPkO%252FityBr4WHip%252BDP71KBIepdLLh%252F740S%252BQf%252Fd%252Fj%252FLz7px9EVon7%252FyLPgs%252F%252F7n0WNIv8lrEKhzJ9FUtiEMAxJf66f8AJIw2Qag%252F%252FjP8tPz5JUYTmC4If8jyDSBBW6aF7Qb59fmGVi3COmGZYQdw0Tw7Rr7mJtPKUpHugOKWWlucnxXIlC6ygkWq1anlAHpH6rlij0rb5Rq%252FPxVI%252F10dG9EDfJ7IvRPh%252Ff7BxVNpBYKsE86be7XT6Z1e6qqKFmrQUN9%252BPkTp%252FELszqeKkvPMv9lALmNa8otNRY3rxPCrnPMFgGb53RBzT6eEKhz4Wu5djFOqmBxEbRDPmP57%252FUsBy7rU2cX2qLRMoEzZOj%252BwSn5qw63thlI0%252Fzpr4y8TRL0nEEta0dJHaO%252BzyffVu6s7JKp3DVVe707Ko3F%252FWVpWedputYOFr0Td%252FIIOhgrGw8y8VuO1OJWbJcq7Wa5eZ5neVe8Dqz4VpuI44HwcKDtzsASY%252B3oyDLL%252FEnqZnQL%252Bzici6T2YSWQ8XdNzEpqijPJzbP54VooheKR8qrVdebSi03v2p%252FhS%252B1ZfV4PtFSbpCboYaN9U3MGmPhiIljHDqxFZX0RV5KpTg5ojiYGitaGU3HwiGz0jcxKyOcPHFVqUagi4HCZZ4n6nhiV6Xn7rY0X%252FF5yN4khkAf5%252FN8nBHo43REKNDT5iV%252F8vp2Cm0ogAKZsaJ5EqCReRrFMKVAc3JKatb%252FDBRSeMOzkqAV2uYCU9YfpMICK7gHIUZpsjJRTlVc8DqK5uII2Nf5jwUFkhSrbFcK%252BlIOGujMlDHCGihEaus4ZMsSWKfOTS%252FtmPu65LjMDGHNpRiAOI4nQBDcinptssHWzTlcDVbRrDxL3%252FvCLNrN2GR4rpzvUsbVHkMqhndNtjMfMOGz01cKF9gGtfIiHFKMzgmxd6gQguhKW9alo%252FiyfdEJNtE2tZGBw70NLsWCh4Jz5CG6tAl%252FMw8kzMiWbfrb4BDQ0X1BaqyEsC0o7urGhAdmGwyX4Yce%252F9yPYtxV55wzZ0zAXULpx90T\"",
+      "domain": ".exelator.com",
+      "path": "/",
+      "expires": 1783964593.224611,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ud",
+      "value": "\"eJxrXxzq6XKLQcEk2SDRwNQozdIwydDcIi3JMNHMyNw4LSnJwtwyxdwiaXFZatGCpaXFqSlJh5ZU5JTkNK0uiw91jHdz9PX0iVzmnFGUn5u6AiwU5hq02NDEdEl%252BUWb6Ij%252BfxUUpaQyLSopPBZ%252Br9AEAoWQqPw%253D%253D\"",
+      "domain": ".exelator.com",
+      "path": "/",
+      "expires": 1783964593.224661,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "aQtuAj7o5Cx7MR8enQTrjpTCARr83y_xndKoM7uklcM-1773596592-1.0.1.1-na2t.dZDQkueCTBBC0Cr3YQi0FtU6GQYxsb9BIW973DgSLPrlTCgpQcxiz1BkuDcuK.nKl1VFicldRjhmG4H6SlGfrUPcwczUiYIhUcUIIY",
+      "domain": ".temu.com",
+      "path": "/",
+      "expires": 1773598393.225059,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "done_redirects153",
+      "value": "1",
+      "domain": ".onaudience.com",
+      "path": "/",
+      "expires": 1773682993.250433,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ad-id",
+      "value": "A1VLxaa92EVDvFiPaZjuRvU",
+      "domain": ".amazon-adsystem.com",
+      "path": "/",
+      "expires": 1790876593.370726,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "mako_uid",
+      "value": "19cf2984b21-16d50000010f4ba5",
+      "domain": ".eyeota.net",
+      "path": "/",
+      "expires": 1805132593.428376,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SERVERID",
+      "value": "19365~DM",
+      "domain": ".eyeota.net",
+      "path": "/",
+      "expires": 1773597193.457641,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "DPSync4",
+      "value": "1776124800%3A102%7C1774137600%3A284%7C1774742400%3A226_197_219_227_245",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1781372594.474438,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SyncRTB4",
+      "value": "1774742400%3A249_3_46_288_8_251_201_233_234_166_254_81_282_71_56_203_99_54_290_214_88_196_283_55_271_278_220_266_279_161_21_22_13_165_176%7C1774137600%3A2_15_223%7C1778716800%3A69%7C1774396800%3A63",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1781372594.576181,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ANON_ID",
+      "value": "aGnteZboNIvapmVrCI2OCahbaA9YUQZaGeufns8LY9QVZdSQMSifVUaGtYWgBR4XLZb2ZcHZdRTDsfp4EpVAJaYcBr39pVADRa40CP",
+      "domain": ".tribalfusion.com",
+      "path": "/",
+      "expires": 1781372594.667436,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "done_redirects147",
+      "value": "1",
+      "domain": ".onaudience.com",
+      "path": "/",
+      "expires": 1773682994.750632,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TDCPM",
+      "value": "CAESFgoHcnViaWNvbhILCOzOsb2LsYE_EAUSFQoGY2FzYWxlEgsI5oTbvYuxgT8QBRIXCghwdWJtYXRpYxILCP7Lu76LsYE_EAUSFgoHc2VtYXNpbxILCLrmxc6LsYE_EAUYASABKAIyCwiki6iJorGBPxAFOAFaB3hrc3c5bGFgAg..",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1805132594.780245,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "guid",
+      "value": "1.608827055227733169",
+      "domain": ".de17a.com",
+      "path": "/",
+      "expires": 1804700594.816164,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KRTBCOOKIE_409",
+      "value": "22966-7GPoEAlsTbWYMTXQnTaXnWbj",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1776188594.825151,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "admtr",
+      "value": "d476759c-37e9-456e-8dc7-c5dee5d48061",
+      "domain": ".admanmedia.com",
+      "path": "/",
+      "expires": 1774197946.534062,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ac_r",
+      "value": "CS356:1774201394991",
+      "domain": ".admanmedia.com",
+      "path": "/",
+      "expires": 1774197946.534169,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "st_cs",
+      "value": "2FZQqLu+jlb+M/ng4OTmDfVUWTunU7qN7qKH9WXZFRqtXuP9f6fPsARhMxNtuJ0pXGrbQV2FQ1Q1DCH5TvErsPSh3DF5SoYB+EAJOwyOuJqBdaF9nInvH5FimKJSUPxy+qG7H7ofyGv3uOR6RrW3Z18p3rqw0bhD2D1KtthBiGpeQdFSwDbTc8qOgf7xnRiCp0RiizCM9Cy7MP9JaPhUNrjIGJD7qalspBkUT5yOJaOQMkMcZUQ0p+5+Jmr50rQnbct/78uRpltZ6uHt2nXnHwxDDEqnTZ6nta/Acg07+Mo+GXGjOt0qhFGw+DFrpbWAcKKRUtWfODnO7xCfGiH10Er7xp9LHCSs/z3ITqv2oRrcrEmXmLNKviGq77pt+SG3GuCO0d23bgTi3NIbDfp3fNA3/reS/cA1Hd/ByKkZwyogekCdXKxjsMpokaFv1c0VOO9zvLalKzMSqKf3Ye/Q4q99t+1RPtA51Itxt2NHTIRCcH2smIiJxbk/4zhZpZkqfwNsm7q76M6Ho03Cs94nSPzF0UvLNocebEDAHbowU9fXy98GBx8AjAMLiIR5sADnVPIPBjED2mu7XXVwpv0oOQne9pZXFKbLx/iRWNAkduVWQDFiUdl7u31dHzkY4gaCdmmvrVSxUqChjddtDOUQas+bT62r+1h4uBUCURaLOHuzIn6x7RFXuCUkWvGA5MFyyvjBm/xX1YiwO3LMLwV8NH9I5j9jk+TkRtLIPY1/lc47QxWYZhCS0UN2crx1PMGBIPQIDQe/9Th1SAuG+b+bl+85OKm8rKw4WY7mYS13Ee5f+D5Vgv+1xhtK4a08M6RdAX5EShppYDCuLvUFJd+Zgmn76KPng+pZcYZ3JF7dnSgtnBVJ8O7T2hi48I6s9XPZnpw62jJRueJxfJ/VFI3AvKP8A1zBogv80JocyD5UFNjx6/zB8X1SYMKmqoB/qwOCdH9q63f5VKhNLv3bFvjb5+frK/MA4lZ8w4yxyzXqYSV+3Zh2Of8vlVL4vA4oKMzFq7/CT7YS/3PextJ4c0dJlw==",
+      "domain": ".seedtag.com",
+      "path": "/",
+      "expires": 1804700607.210254,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SPugT",
+      "value": "1773596596",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1776188596.619498,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "chkChromeAb67Sec",
+      "value": "4",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1781372597.673716,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pubsyncexp",
+      "value": "1773618197675",
+      "domain": ".ads.pubmatic.com",
+      "path": "/",
+      "expires": 1773682997,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "https://www.funda.nl_oeu1773596589599r0.044123336708440264$$18146640370$$session_state",
+      "value": "{\"lastSessionTimestamp\":1773596605813,\"sessionId\":\"5b5a54e9-84e1-46ae-97f8-ba95f6a687ff\"}",
+      "domain": "a18146640370.cdn.optimizely.com",
+      "path": "/",
+      "expires": 1789148605.88249,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_hjSessionUser_2869769",
+      "value": "eyJpZCI6IjBkYjdlZmQxLTA3OWYtNTQ5Mi04NGZhLWJhOTQ2MzM0MGJhMCIsImNyZWF0ZWQiOjE3NzM1OTY1ODk3MjgsImV4aXN0aW5nIjp0cnVlfQ==",
+      "domain": ".funda.nl",
+      "path": "/",
+      "expires": 1805132605,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "last_search",
+      "value": "koop%3DAmsterdam%2520%252B%25200%2520filter%7CL3pvZWtlbi9rb29wP3NlbGVjdGVkX2FyZWE9JTVCJTIyYW1zdGVyZGFtJTIyJTVE",
+      "domain": "www.funda.nl",
+      "path": "/",
+      "expires": 1776188606.09048,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "optimizelySession",
+      "value": "1773596606453",
+      "domain": ".funda.nl",
+      "path": "/",
+      "expires": 1789148606,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "g_state",
+      "value": "{\"i_l\":0,\"i_ll\":1773596606662,\"i_b\":\"FWEpb/EjIrmjwugChFmlwhSqY4t+qO/05s3Jkzxd7ig\",\"i_e\":{\"enable_itp_optimization\":0}}",
+      "domain": "www.funda.nl",
+      "path": "/",
+      "expires": 1789148606,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cto_bundle",
+      "value": "ugyo4V9VeGg2YXlxV1ZXNlFhZFRLanFDSnAzYnJjU2xuTWx1VGdpdWpTQkVyNWJFTXRCZGNZVm5hbndrczdhNmdKV1Y1aGFLcWxTcGtETjhrQ2hCdlNQSXdBSHc5bnJPUGtWbmxRdWl4a2xKUlJmUkRlYnd5RG5nZVNmbGlxT25TbWVOSHJEeVZMaThHRkVNUjQ4T1pDc3ptNGclM0QlM0Q",
+      "domain": ".funda.nl",
+      "path": "/",
+      "expires": 1807299806,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cto_bidid",
+      "value": "Id2sp19lbUdHUjN6SXk4cUI4c2Rqd3AzQ1A0MWdiaElHRUNZUUpRU1FSSlB1NCUyRktHbjl6cWl0QlE2cWx2V2tJUUI4SWdYZXJvQjZKeDNGU1dhcTVvVm9kWXdWb0I2d2w0SXV2c1RHOVNqQWRtMmxFJTNE",
+      "domain": ".funda.nl",
+      "path": "/",
+      "expires": 1807299806,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dd_s",
+      "value": "logs=1&id=eced64f2-2022-4d87-967b-2e185d95471e&created=1773596589443&expire=1773597505787",
+      "domain": "www.funda.nl",
+      "path": "/",
+      "expires": 1773597506,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "icu",
+      "value": "ChgIjclxEAoYAiACKAIwvt_bzQY4AkACSAIQvt_bzQYYAQ..",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1781372606.917119,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "id5",
+      "value": "fdcb2753-4bf2-7d4b-9f08-7158507e4245#1773596589534#5",
+      "domain": ".id5-sync.com",
+      "path": "/",
+      "expires": 1781372607.033898,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "browser_id",
+      "value": "1:ca82ae99-fbb6-4a0a-877f-d336b9c9a665",
+      "domain": ".rqtrk.eu",
+      "path": "/",
+      "expires": 1774201407.182905,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "st_csd",
+      "value": "1773596606709:1773596606709",
+      "domain": ".seedtag.com",
+      "path": "/",
+      "expires": 1804700607.210382,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid_lu",
+      "value": "1773596606",
+      "domain": ".360yield.com",
+      "path": "/",
+      "expires": 1781372607.217124,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "um",
+      "value": "!368,laL32IZASReeYVIXMzKgvSt.IDhOq5mRKRAAGCSJNyL7IKPO,1773682990!38,dWG-qQE0Hqb9TPd92lLGqVGG-tAAFsqY8iRdMunTi2sT5Y-CzWkj7PC05TFXAWKRwVW0O4qEEbCLIaeST9vmJVxG0zo,1781372591!191,beh56Y8JkOelug35YO8cLYx6C9uCBfa2rTtjXENUOOfe6vo7OajmeOYffgHETKzjiw0YQTxB9nlSm5n9BW0nj0xf4OM,1781372591!55,a3-efC3CUvyZ5p7ozSy3RimuUo85zT0hXiQHzSZS9DW0-BwmWAy7cV2Usf8aShUuop9Vvw,1781372591!524,bn.7eW8slHvGKJaEk6AOJSCpxRrE5IVy5JkJuCJI7SMInSshqykeyyo0Ob4-1eAR2IZAOQ,1781372592!596,HqJGWploZgLd3DCBxsgDjLJX-8HQ-khAou8--Gjxpa1ZMZd7MN.C2PluAYQsMp3j59yzmNwzX-GPpK4aRlBIBR6OCns,1781372606",
+      "domain": ".360yield.com",
+      "path": "/",
+      "expires": 1781372607.217192,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "umeh",
+      "value": "!524,0,1835804592,-1!566,2,1835804606,-1!38,0,1836668591,-1!368,0,1835804592,-1",
+      "domain": ".360yield.com",
+      "path": "/",
+      "expires": 1781372607.24408,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "PugT",
+      "value": "1773596606",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1776188607.27082,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KRTBCOOKIE_1469",
+      "value": "23583-cdc45495-ce75-4edf-bd0c-dc8369f03bb0%20",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1781372607.270687,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cto_bundle",
+      "value": "9prW_V8xYlRVZnBVUWl0YXVHUDJ5RkdUbHluRFVVd2lRU2h5V0NRWWg3JTJGc1NpZVV6dnpLcUdYQ1B0ZjBBOTJDcWJCJTJGYXh2a1FlSFI0cE8xVFptVnhGZExhOUJMciUyRjNoeEhyNFY3Q3JvalVaWG9LSHBTTERUUTNYU0JzZEp3VkhWVnRIbCUyRncxOGFxcW1FY214NTcxeE9SVDNlUSUzRCUzRA",
+      "domain": ".criteo.com",
+      "path": "/",
+      "expires": 1807292607.369516,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://funda.nl",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "csuuid",
+      "value": "69b6efbedc083",
+      "domain": ".primis.tech",
+      "path": "/",
+      "expires": 1775756607.403748,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "3pi",
+      "value": "112#1773596592662#-1907569953#C3E54778E33F7584|2#1773596591651#-1643066768|264#1773596592714#-724979501#6c471144-b067-4b7f-927e-446347f4e344|104#1773596607055#-1353640677#8c2cb0be-cf0e-4368-a173-eef8fb991411|10#1773596592778#-1366532493#2103429273155418266|203#1773596592202#-1735679653#8871c1e5-9af0-408d-87ae-5ee55c990a2c|155#1773596606919#1977990761#AAClR07Tbd8AAAJYE4drSA|124#1773596606534#-1526247857",
+      "domain": ".id5-sync.com",
+      "path": "/",
+      "expires": 1781372607.552242,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "audit_p",
+      "value": "1|SDziDG3X/EikIVffxkGtNlqAgFxLL1L/xHwDqRyuAGCS3STnWZvoVLaVSLkxDvwxTp08ywZJbP+7lICq2UVYlMxuhZpbWKLtjvUoCW1dfiifbtqooXMOyLG6da5xZf8sEXwwHTLlZiRiPd8QR9AmU9bOaGAmwjz5EIeihVFVB8lp+uNa1HpYCD3pJktLV3VToU2K8mp/95kxurl0yhkY6OQ5XnBrbA+tQwWtVXHEFi2lxEUBjx4uPw==",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1805132607.558426,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://funda.nl",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "audit",
+      "value": "1|SDziDG3X/EikIVffxkGtNlqAgFxLL1L/xHwDqRyuAGCS3STnWZvoVLaVSLkxDvwxTp08ywZJbP+7lICq2UVYlMxuhZpbWKLtjvUoCW1dfiifbtqooXMOyLG6da5xZf8sEXwwHTLlZiRiPd8QR9AmU9bOaGAmwjz5EIeihVFVB8lp+uNa1HpYCD3pJktLV3VToU2K8mp/95kxurl0yhkY6OQ5XnBrbA+tQwWtVXHEFi2lxEUBjx4uPw==",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1805132607.558714,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_WLRNSHBY8J",
+      "value": "GS2.1.s1773596498$o1$g1$t1773596607$j42$l0$h0",
+      "domain": ".funda.nl",
+      "path": "/",
+      "expires": 1808156607.635666,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.funda.nl",
+      "localStorage": [
+        {
+          "name": "optimizely_data$$oeu1773596589599r0.044123336708440264$$18146640370$$layer_map",
+          "value": "{}"
+        },
+        {
+          "name": "cto_bidid",
+          "value": "Id2sp19lbUdHUjN6SXk4cUI4c2Rqd3AzQ1A0MWdiaElHRUNZUUpRU1FSSlB1NCUyRktHbjl6cWl0QlE2cWx2V2tJUUI4SWdYZXJvQjZKeDNGU1dhcTVvVm9kWXdWb0I2d2w0SXV2c1RHOVNqQWRtMmxFJTNE"
+        },
+        {
+          "name": "PROFILE_AUCTION_INFO_www.funda.nl",
+          "value": "{\"pageView\":2,\"slotCnt\":3,\"bidServed\":9,\"impressionServed\":0,\"slotLevelFrquencyDepth\":{\"/7276/funda/homepage/web/billboard1_funda_homepage_web_r0\":{\"slotCnt\":1,\"bidServed\":6,\"impressionServed\":0},\"/7276/funda/homepage/web/rectangle1_funda_homepage_web_r0\":{\"slotCnt\":1,\"bidServed\":1,\"impressionServed\":0},\"/7276/funda/resultaatlijst/web/leaderboard3_funda_resultaatlijst_web_r0\":{\"slotCnt\":1,\"bidServed\":2,\"impressionServed\":0}},\"viewedSlot\":{},\"timestamp\":{\"date\":15},\"userAgentDetails\":{\"browser\":\"Chromium\",\"isMobile\":false,\"platform\":\"Windows\"},\"lip\":[\"criteoId\",\"id5id\",\"lotamePanoramaId\",\"pubcid\"],\"codeAdUnitMap\":{\"div-gpt-ad-1656493816069-0\":\"/7276/funda/resultaatlijst/web/halfpage1_funda_resultaatlijst_web_r0\",\"div-gpt-ad-1-1655725168772-0\":\"/7276/funda/resultaatlijst/web/leaderboard1_funda_resultaatlijst_web_r0\",\"div-gpt-ad-2-1655725168772-0\":\"/7276/funda/resultaatlijst/web/leaderboard2_funda_resultaatlijst_web_r0\",\"div-gpt-ad-3-1655725168772-0\":\"/7276/funda/resultaatlijst/web/leaderboard3_funda_resultaatlijst_web_r0\"}}"
+        },
+        {
+          "name": "__bm_m",
+          "value": ""
+        },
+        {
+          "name": "id5id_exp",
+          "value": "Sat, 13 Jun 2026 17:43:10 GMT"
+        },
+        {
+          "name": "cto_bundle",
+          "value": "ugyo4V9VeGg2YXlxV1ZXNlFhZFRLanFDSnAzYnJjU2xuTWx1VGdpdWpTQkVyNWJFTXRCZGNZVm5hbndrczdhNmdKV1Y1aGFLcWxTcGtETjhrQ2hCdlNQSXdBSHc5bnJPUGtWbmxRdWl4a2xKUlJmUkRlYnd5RG5nZVNmbGlxT25TbWVOSHJEeVZMaThHRkVNUjQ4T1pDc3ptNGclM0QlM0Q"
+        },
+        {
+          "name": "optimizely_data$$oeu1773596589599r0.044123336708440264$$18146640370$$event_queue",
+          "value": "[{\"eb\":{\"n\":\"Listing Results Viewed\",\"y\":\"custom\",\"c\":\"other\",\"o\":{\"site_locale\":\"nl\",\"full_path\":\"/zoeken/koop\",\"full_url\":\"https://www.funda.nl/zoeken/koop?selected_area=[%22amsterdam%22]\",\"logged_in\":false,\"channel\":\"web\",\"page_type\":\"listing_results\",\"site\":\"funda\",\"site_section\":\"listings\",\"filters\":[{\"key\":\"offering_type\",\"value\":\"buy\"},{\"key\":\"availability\",\"value\":[\"available\",\"negotiations\"]},{\"key\":\"zoning\",\"value\":[\"residential\"]},{\"key\":\"type\",\"value\":[\"single\"]}],\"page_no\":1,\"results_total\":5322,\"search_locations\":[{\"location\":\"Amsterdam\",\"location_type\":\"city\"}],\"search_offering_type\":\"koop\",\"search_radius\":\"0\",\"sort_order\":\"relevance\",\"listings\":[{\"display_order\":0,\"global_id\":7305080,\"placement\":\"listing_results_top_position\"},{\"display_order\":1,\"global_id\":7606403,\"placement\":\"listing_results_top_position\"},{\"display_order\":2,\"global_id\":7922924,\"placement\":\"listing_results_top_position\"},{\"display_order\":3,\"global_id\":7925304,\"placement\":\"listing_results_normal\",\"status\":\"available\"},{\"display_order\":4,\"global_id\":7925295,\"placement\":\"listing_results_promo\",\"status\":\"available\"},{\"display_order\":5,\"global_id\":7925202,\"placement\":\"listing_results_normal\",\"status\":\"available\"},{\"display_order\":6,\"global_id\":7925177,\"placement\":\"listing_results_normal\",\"status\":\"available\"},{\"display_order\":7,\"global_id\":7925052,\"placement\":\"listing_results_promo\",\"status\":\"available\"},{\"display_order\":8,\"global_id\":7925025,\"placement\":\"listing_results_promo\",\"status\":\"available\"},{\"display_order\":9,\"global_id\":7924962,\"placement\":\"listing_results_promo\",\"status\":\"available\"},{\"display_order\":10,\"global_id\":7924949,\"placement\":\"listing_results_normal\",\"status\":\"available\"},{\"display_order\":11,\"global_id\":7924945,\"placement\":\"listing_results_promo\",\"status\":\"available\"},{\"display_order\":12,\"global_id\":7924782,\"placement\":\"listing_results_normal\",\"status\":\"available\"},{\"display_order\":13,\"global_id\":7924702,\"placement\":\"listing_results_normal\",\"status\":\"available\"},{\"display_order\":14,\"global_id\":7924690,\"placement\":\"listing_results_normal\",\"status\":\"available\"},{\"display_order\":15,\"global_id\":7924680,\"placement\":\"listing_results_normal\",\"status\":\"available\"},{\"display_order\":16,\"global_id\":7924653,\"placement\":\"listing_results_promo\",\"status\":\"available\"},{\"display_order\":17,\"global_id\":7924555,\"placement\":\"listing_results_promo\",\"status\":\"available\"}]}},\"h\":\"180865a9\",\"tb\":1773596606453,\"ts\":[{\"d\":0,\"i\":0}]}]"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"creationTimeMs\":1773596590229},\"expires\":1781372590229}}"
+        },
+        {
+          "name": "id5id",
+          "value": "%7B%22signature%22%3A%22ID5_AtnL4An26uRYnANd4xWDhjC5VXExsiTu2XcQq3pZy3iTIA_Wq0FFGvycCNWuBFValGMI05gyD-mVMPm9zlglHw27catjd4PzYLqCuFEFAEeMP6Z_c3QFH5XjYP5xZKr481qYrPk4DgQh7JYI_w-cpgtTgx76B1CaHiEhNa4rur19XMgV1hA%22%2C%22created_at%22%3A%222026-03-15T17%3A43%3A09.534Z%22%2C%22id5_consent%22%3Atrue%2C%22original_uid%22%3A%22ID5*-57wEhL1IMzTg3xMsrQ5GcdxDbDKxt1tJwZRPXlnPzn__2m2765aAAEBCmm2760AkyKhmqXA7tKmcrCFUUBVc5UDYw3ut7WwvEH2j4I18AaTJV0iWCiP5xUlMGovWrhGkyikDf-unIg2pGEMThcFdZMJ8rVupATrr87WrU26F3aTKa2mtuf4_wz9MMKHR2v6kwoGSUdHPl1HGyCYDRoHGZMqSXIoR5CAKCgnkvqyuJyTT2h-BwIjQ7P95DlQyXSnkxOyvYLP5oMF12cnG0J15JMza_aXliHQS739RYiAXbyS9M8IU3o0cl5vRwjYVKD8kvVpM2V2EFmjzrBYrXhzVZMXgBKq5Syca_fdLnSmxmaTOHrrrlo1It68NwIVAlnzkxqmrZ8Mp8ToOYrcMk3S65M6DdeH9gjVFl1vdFTdFISTHMcwkkW3IRVWqQSpppRgkv2AP7638gue4Kx4qJlB45MfHA-XhQr4qUO0csfoJiw%22%2C%22universal_uid%22%3A%22ID5*92Gs5v5_1HyMVyHKhb2dlW1ZtFQqjVEnkQPbmGOKZFr__2m2765aAAEBCmm2760AkyJtXIo-Q_ubvNf1bjv1O5UDs93tWsipXc9WDKjhNv6TJdezk9unHG6JgdAXTPHHkyhW2nPwAywkcWMtM4SteZMJGMtrixQdRyaHYW1MJUuTKQdv5QRmXrzqGcV4AmGYkwqepLf4M-L8kO3a2n3nEZMqsFTjQd3nnY1RCK_A4K-TT5LOX8zGWqjDEOrgFDkqkxPdKkf2mPYOBoAagEgD-pMz_LGGhmgoXuQzScYVFCyS9HtQQGRdoXk5QcO1KMZekvWtmRlOwNsFRYUepIuMlJMX5GMdcmd3JbCCYVpD2rKTOHl-Fc5fAG-elH62dBm_kxqrDeMlw6Yn6y7stmNB_ZM6e7KObdo984f-wi_j3J2THHRGNl2u82z3-ippYdxdkv1v5eFq1XreazZVx_1s65Mf2sLkwQ68GzgSzRtMLnU%22%2C%22link_type%22%3A2%2C%22cascade_needed%22%3Atrue%2C%22privacy%22%3A%7B%22jurisdiction%22%3A%22gdpr%22%2C%22id5_consent%22%3Atrue%7D%2C%22ext%22%3A%7B%22linkType%22%3A2%2C%22pba%22%3A%222G1mX9BIuvvxVQ1RSfOS1iWNtu4rHOqxLQJ6X8Eexn9UuowBN%2BvOmJr2%2FikSN3%2F6lU2TxkmHK%2FxlG1QeIHfFOQ%3D%3D%22%7D%2C%22cache_control%22%3A%7B%22max_age_sec%22%3A7200%7D%2C%22ids%22%3A%7B%22id5id%22%3A%7B%22eid%22%3A%7B%22source%22%3A%22id5-sync.com%22%2C%22uids%22%3A%5B%7B%22id%22%3A%22ID5*92Gs5v5_1HyMVyHKhb2dlW1ZtFQqjVEnkQPbmGOKZFr__2m2765aAAEBCmm2760AkyJtXIo-Q_ubvNf1bjv1O5UDs93tWsipXc9WDKjhNv6TJdezk9unHG6JgdAXTPHHkyhW2nPwAywkcWMtM4SteZMJGMtrixQdRyaHYW1MJUuTKQdv5QRmXrzqGcV4AmGYkwqepLf4M-L8kO3a2n3nEZMqsFTjQd3nnY1RCK_A4K-TT5LOX8zGWqjDEOrgFDkqkxPdKkf2mPYOBoAagEgD-pMz_LGGhmgoXuQzScYVFCyS9HtQQGRdoXk5QcO1KMZekvWtmRlOwNsFRYUepIuMlJMX5GMdcmd3JbCCYVpD2rKTOHl-Fc5fAG-elH62dBm_kxqrDeMlw6Yn6y7stmNB_ZM6e7KObdo984f-wi_j3J2THHRGNl2u82z3-ippYdxdkv1v5eFq1XreazZVx_1s65Mf2sLkwQ68GzgSzRtMLnU%22%2C%22atype%22%3A1%2C%22ext%22%3A%7B%22linkType%22%3A2%2C%22pba%22%3A%222G1mX9BIuvvxVQ1RSfOS1iWNtu4rHOqxLQJ6X8Eexn9UuowBN%2BvOmJr2%2FikSN3%2F6lU2TxkmHK%2FxlG1QeIHfFOQ%3D%3D%22%7D%7D%5D%7D%7D%7D%2C%22tags%22%3A%7B%22id%22%3A%22y%22%7D%7D"
+        },
+        {
+          "name": "_cc_id",
+          "value": "58d5c9323e1d7ac8a084cc0a611f9cff"
+        },
+        {
+          "name": "_grecaptcha",
+          "value": "09AKhCRwhj1oR3V9KD9vI0y_DMd4IJa_6FpjFWzc6-pNGh6ynNQOXnY5IscZtchzn4aJJlAaLB2zp446auKcDFJUwGfQUwbFazjrZ4H6ymBj_uEDu8xNhpLljnr64KlnzP"
+        },
+        {
+          "name": "featuredlistings_provinceid",
+          "value": ""
+        },
+        {
+          "name": "optimizely_data$$oeu1773596589599r0.044123336708440264$$18146640370$$events",
+          "value": "[{\"eb\":{\"n\":\"Homepage Viewed\",\"y\":\"custom\",\"c\":\"other\",\"o\":{\"site_locale\":\"nl\",\"full_path\":\"/\",\"full_url\":\"https://www.funda.nl/\",\"logged_in\":false,\"channel\":\"web\",\"page_type\":\"homepage\",\"site\":\"funda\",\"site_section\":\"homepage\",\"homepage_version\":\"new_homepage\",\"listing_offering_type\":\"koop\"}},\"h\":\"15e436c4\",\"tb\":1773596589835,\"ts\":[{\"d\":0,\"i\":0}]}]"
+        },
+        {
+          "name": "optimizely_data$$oeu1773596589599r0.044123336708440264$$18146640370$$tracker_optimizely",
+          "value": "{}"
+        },
+        {
+          "name": "__bm_s",
+          "value": ""
+        },
+        {
+          "name": "optimizely_data$$pending_events",
+          "value": "{}"
+        },
+        {
+          "name": "hideRankingExplanation",
+          "value": "false"
+        },
+        {
+          "name": "ajs_anonymous_id",
+          "value": "\"7f418934-2d3c-448d-a30f-8b890c24342b\""
+        },
+        {
+          "name": "panoramaId_expiry",
+          "value": "1774201389589"
+        },
+        {
+          "name": "segment_user_traits",
+          "value": ""
+        },
+        {
+          "name": "QSI_ActionSetHistory",
+          "value": "{\"AS_43246974\":1773596607357,\"AS_32857292\":1773596607363}"
+        },
+        {
+          "name": "panoramaId",
+          "value": "1981f77b6b81afd0d608bc5bd636185ca02cccc760ece62eee0bcc51d8866476"
+        },
+        {
+          "name": "id5id_cached_consent_data",
+          "value": "7100470288507745"
+        },
+        {
+          "name": "id5id_v2_signature",
+          "value": "{\"data\":{\"signature\":\"ID5_AtnL4An26uRYnANd4xWDhjC5VXExsiTu2XcQq3pZy3iTIA_Wq0FFGvycCNWuBFValGMI05gyD-mVMPm9zlglHw27catjd4PzYLqCuFEFAEeMP6Z_c3QFH5XjYP5xZKr481qYrPk4DgQh7JYI_w-cpgtTgx76B1CaHiEhNa4rur19XMgV1hA\"},\"expireAt\":1774892590879}"
+        },
+        {
+          "name": "ix_features",
+          "value": "{\"expiry\":1773600207395,\"features\":{\"pbjs_allow_all_eids\":{\"activated\":true},\"pbjs_enable_multiformat\":{\"activated\":true}}}"
+        },
+        {
+          "name": "UINFO",
+          "value": "{\"cc\":\"NL\",\"sc\":\"nb\",\"gc\":1,\"createdDate\":1773596606541}"
+        },
+        {
+          "name": "id5id_cst",
+          "value": "2yyXLJEs8g=="
+        },
+        {
+          "name": "id5id_extensions",
+          "value": "{\"data\":{\"lbCDN\":\"%%LB_CDN%%\",\"lb\":\"m1bwh/cy3JZBvAl9U0vqvg==\",\"ttl\":28800,\"bounce\":{\"setCookie\":false},\"lbs\":\"XDhw52k9hTv8zSxPEjtbEylFoiLgGbvsE6cKHkR6KvGxh7gg9OSKMfJubuenYzgb\"},\"expireAt\":1773625390849}"
+        },
+        {
+          "name": "id5id_last",
+          "value": "Sun, 15 Mar 2026 17:43:10 GMT"
+        },
+        {
+          "name": "id5id_privacy",
+          "value": "{\"jurisdiction\":\"gdpr\",\"id5_consent\":true}"
+        },
+        {
+          "name": "optimizely_data$$oeu1773596589599r0.044123336708440264$$18146640370$$session_state",
+          "value": "{\"lastSessionTimestamp\":1773596605813,\"sessionId\":\"5b5a54e9-84e1-46ae-97f8-ba95f6a687ff\"}"
+        },
+        {
+          "name": "didomi_token",
+          "value": "eyJ1c2VyX2lkIjoiMTljZjI5NmQtODAyYi02OGViLTlmOWYtYjhlNTNkNGM2YTM3IiwiY3JlYXRlZCI6IjIwMjYtMDMtMTVUMTc6NDE6MzcuOTIyWiIsInVwZGF0ZWQiOiIyMDI2LTAzLTE1VDE3OjQxOjQwLjAyN1oiLCJ2ZW5kb3JzIjp7ImVuYWJsZWQiOlsiZ29vZ2xlIiwiYzpxdWFsdHJpY3MtYWM2TUpXZ0EiLCJjOmdvb2dsZWFuYS00VFhuSmlnUiIsImM6ZnVuZGFwYXJ0LWlCTmdYV3dYIiwiYzpkYXRhZG9nLXJkdFk3QW1FIiwiYzpmdW5kYWZ1bmMtQUhoRDJZcTMiLCJjOnNlZ21lbnQtR1FwV1BRaEsiLCJjOmdvb2dsZWFuYS1qYWduNk5uZyIsImM6b3B0aW1pemVseS04MjJBNnFOZyIsImM6Y2xvdWRmbGFyZS04Zm5hM0VIQSIsImM6Z29vZ2xldGFnLWVFWVBqMzJaIiwiYzpob3RqYXItVDgyanRDVXEiLCJjOnNhbGVzZm9yY2Uta0s3cnBleFkiLCJjOmluZy1qcVg2ZDN0WSJdfSwicHVycG9zZXMiOnsiZW5hYmxlZCI6WyJhZHZlcnRpc2VtZW50LWdyb3VwIiwicGVyc29uYWxpc2F0aW9uLWdyb3VwIl19LCJ2ZXJzaW9uIjoyLCJhYyI6IkV0LUFJQkVrRURBS01BbHZnQUFBLkFBQUEifQ=="
+        },
+        {
+          "name": "id5id_v2_4453442503130656",
+          "value": "{\"data\":{\"response\":{\"signature\":\"ID5_AtnL4An26uRYnANd4xWDhjC5VXExsiTu2XcQq3pZy3iTIA_Wq0FFGvycCNWuBFValGMI05gyD-mVMPm9zlglHw27catjd4PzYLqCuFEFAEeMP6Z_c3QFH5XjYP5xZKr481qYrPk4DgQh7JYI_w-cpgtTgx76B1CaHiEhNa4rur19XMgV1hA\",\"created_at\":\"2026-03-15T17:43:09.534Z\",\"id5_consent\":true,\"original_uid\":\"ID5*-57wEhL1IMzTg3xMsrQ5GcdxDbDKxt1tJwZRPXlnPzn__2m2765aAAEBCmm2760AkyKhmqXA7tKmcrCFUUBVc5UDYw3ut7WwvEH2j4I18AaTJV0iWCiP5xUlMGovWrhGkyikDf-unIg2pGEMThcFdZMJ8rVupATrr87WrU26F3aTKa2mtuf4_wz9MMKHR2v6kwoGSUdHPl1HGyCYDRoHGZMqSXIoR5CAKCgnkvqyuJyTT2h-BwIjQ7P95DlQyXSnkxOyvYLP5oMF12cnG0J15JMza_aXliHQS739RYiAXbyS9M8IU3o0cl5vRwjYVKD8kvVpM2V2EFmjzrBYrXhzVZMXgBKq5Syca_fdLnSmxmaTOHrrrlo1It68NwIVAlnzkxqmrZ8Mp8ToOYrcMk3S65M6DdeH9gjVFl1vdFTdFISTHMcwkkW3IRVWqQSpppRgkv2AP7638gue4Kx4qJlB45MfHA-XhQr4qUO0csfoJiw\",\"universal_uid\":\"ID5*92Gs5v5_1HyMVyHKhb2dlW1ZtFQqjVEnkQPbmGOKZFr__2m2765aAAEBCmm2760AkyJtXIo-Q_ubvNf1bjv1O5UDs93tWsipXc9WDKjhNv6TJdezk9unHG6JgdAXTPHHkyhW2nPwAywkcWMtM4SteZMJGMtrixQdRyaHYW1MJUuTKQdv5QRmXrzqGcV4AmGYkwqepLf4M-L8kO3a2n3nEZMqsFTjQd3nnY1RCK_A4K-TT5LOX8zGWqjDEOrgFDkqkxPdKkf2mPYOBoAagEgD-pMz_LGGhmgoXuQzScYVFCyS9HtQQGRdoXk5QcO1KMZekvWtmRlOwNsFRYUepIuMlJMX5GMdcmd3JbCCYVpD2rKTOHl-Fc5fAG-elH62dBm_kxqrDeMlw6Yn6y7stmNB_ZM6e7KObdo984f-wi_j3J2THHRGNl2u82z3-ippYdxdkv1v5eFq1XreazZVx_1s65Mf2sLkwQ68GzgSzRtMLnU\",\"link_type\":2,\"cascade_needed\":true,\"privacy\":{\"jurisdiction\":\"gdpr\",\"id5_consent\":true},\"ext\":{\"linkType\":2,\"pba\":\"2G1mX9BIuvvxVQ1RSfOS1iWNtu4rHOqxLQJ6X8Eexn9UuowBN+vOmJr2/ikSN3/6lU2TxkmHK/xlG1QeIHfFOQ==\"},\"cache_control\":{\"max_age_sec\":7200},\"ids\":{\"id5id\":{\"eid\":{\"source\":\"id5-sync.com\",\"uids\":[{\"id\":\"ID5*92Gs5v5_1HyMVyHKhb2dlW1ZtFQqjVEnkQPbmGOKZFr__2m2765aAAEBCmm2760AkyJtXIo-Q_ubvNf1bjv1O5UDs93tWsipXc9WDKjhNv6TJdezk9unHG6JgdAXTPHHkyhW2nPwAywkcWMtM4SteZMJGMtrixQdRyaHYW1MJUuTKQdv5QRmXrzqGcV4AmGYkwqepLf4M-L8kO3a2n3nEZMqsFTjQd3nnY1RCK_A4K-TT5LOX8zGWqjDEOrgFDkqkxPdKkf2mPYOBoAagEgD-pMz_LGGhmgoXuQzScYVFCyS9HtQQGRdoXk5QcO1KMZekvWtmRlOwNsFRYUepIuMlJMX5GMdcmd3JbCCYVpD2rKTOHl-Fc5fAG-elH62dBm_kxqrDeMlw6Yn6y7stmNB_ZM6e7KObdo984f-wi_j3J2THHRGNl2u82z3-ippYdxdkv1v5eFq1XreazZVx_1s65Mf2sLkwQ68GzgSzRtMLnU\",\"atype\":1,\"ext\":{\"linkType\":2,\"pba\":\"2G1mX9BIuvvxVQ1RSfOS1iWNtu4rHOqxLQJ6X8Eexn9UuowBN+vOmJr2/ikSN3/6lU2TxkmHK/xlG1QeIHfFOQ==\"}}]}}},\"tags\":{\"id\":\"y\"}},\"responseTimestamp\":1773596590878,\"consents\":{\"gdpr\":true,\"gdpr_consent\":\"CQhG6EAQhG6EAAHABBENCVFgAP_gAAEAABpYGotBzC5dRAFCCCZwYJsAOQQVoNAAJEQgAAIAAgABgAKAIAQCkEEAFADAAAACAAAAIAABAAJAEAAAAAAAAAAAAAAAQAAAAAIIIAAAgAIBAAAIAAAAAAAAQAAAgAACAAAAkAAAAIIAQEAAAAACBVkAsABYADwAqgBiADeAH4AjgBIgDFAGvAVYAKSgAwABBg4pABgACDBw6ADAAEGDgkAGAAIMHFoAMAAQYOAA.IGotBzC5dRAFCCCZwYJsAOQQVoNAAJEQgAAIAAgABgAKAIAQCkEEAFADAAAACAAAAIAABAAJAEAgAAAAAAAAAAAAAQAAAAAIIIAAAgAIBAAAIAAAAAAAAQAAAgAACAAAAkAAAAIIAQEAAAAACAAA.f_wAACAAAAAA\"}},\"expireAt\":1774892590879}"
+        },
+        {
+          "name": "optimizely_data$$oeu1773596589599r0.044123336708440264$$18146640370$$contextual_mab",
+          "value": "{}"
+        },
+        {
+          "name": "id5id_privacy_exp",
+          "value": "Tue, 14 Apr 2026 17:43:10 GMT"
+        },
+        {
+          "name": "id5id_cached_consent_data_exp",
+          "value": "Tue, 14 Apr 2026 17:43:10 GMT"
+        },
+        {
+          "name": "euconsent-v2",
+          "value": "CQhG6EAQhG6EAAHABBENCVFgAP_gAAEAABpYGotBzC5dRAFCCCZwYJsAOQQVoNAAJEQgAAIAAgABgAKAIAQCkEEAFADAAAACAAAAIAABAAJAEAAAAAAAAAAAAAAAQAAAAAIIIAAAgAIBAAAIAAAAAAAAQAAAgAACAAAAkAAAAIIAQEAAAAACBVkAsABYADwAqgBiADeAH4AjgBIgDFAGvAVYAKSgAwABBg4pABgACDBw6ADAAEGDgkAGAAIMHFoAMAAQYOAA.IGotBzC5dRAFCCCZwYJsAOQQVoNAAJEQgAAIAAgABgAKAIAQCkEEAFADAAAACAAAAIAABAAJAEAgAAAAAAAAAAAAAQAAAAAIIIAAAgAIBAAAIAAAAAAAAQAAAgAACAAAAkAAAAIIAQEAAAAACAAA.f_wAACAAAAAA"
+        },
+        {
+          "name": "optimizely_data$$oeu1773596589599r0.044123336708440264$$18146640370$$variation_map",
+          "value": "{}"
+        },
+        {
+          "name": "optimizely_data$$oeu1773596589599r0.044123336708440264$$18146640370$$visitor_profile",
+          "value": "{\"profile\":{\"visitorId\":\"oeu1773596589599r0.044123336708440264\",\"customBehavior\":{},\"first_session\":true,\"browserId\":\"gc\",\"browserVersion\":\"145.0.0.0\",\"device\":\"desktop\",\"device_type\":\"desktop_laptop\",\"queryParams\":[[\"selected_area\",\"%5B%22amsterdam%22%5D\"]],\"referrer\":\"https://www.funda.nl/\",\"source_type\":\"direct\"},\"metadata\":{\"visitorId\":{},\"events\":{},\"customBehavior\":{},\"first_session\":{},\"browserId\":{},\"browserVersion\":{},\"device\":{},\"device_type\":{},\"queryParams\":{},\"referrer\":{},\"source_type\":{}}}"
+        },
+        {
+          "name": "optimizely_data$$oeu1773596589599r0.044123336708440264$$18146640370$$layer_states",
+          "value": "[]"
+        },
+        {
+          "name": "ajs_user_id",
+          "value": "\"\""
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::h",
+          "value": "1773596592143"
+        },
+        {
+          "name": "rc::a",
+          "value": "MWpxcTBiMXN6N3J6bw=="
+        },
+        {
+          "name": "rc::f",
+          "value": "0aAKe0Xz25VxvdXmOL9LGR54enL6-KfjzEcInqk69jPynrkwez8_I-uNbHUcyjBif_Z2DptPM"
+        }
+      ]
+    },
+    {
+      "origin": "https://a18146640370.cdn.optimizely.com",
+      "localStorage": [
+        {
+          "name": "https://www.funda.nl_oeu1773596589599r0.044123336708440264$$18146640370$$session_state",
+          "value": "{\"lastSessionTimestamp\":1773596605813,\"sessionId\":\"5b5a54e9-84e1-46ae-97f8-ba95f6a687ff\"}"
+        },
+        {
+          "name": "https://www.funda.nl_oeu1773596589599r0.044123336708440264$$18146640370$$layer_states",
+          "value": "[]"
+        },
+        {
+          "name": "https://www.funda.nl_pending_events",
+          "value": "{}"
+        },
+        {
+          "name": "https://www.funda.nl_oeu1773596589599r0.044123336708440264$$18146640370$$event_queue",
+          "value": "[{\"eb\":{\"n\":\"Listing Results Viewed\",\"y\":\"custom\",\"c\":\"other\",\"o\":{\"site_locale\":\"nl\",\"full_path\":\"/zoeken/koop\",\"full_url\":\"https://www.funda.nl/zoeken/koop?selected_area=[%22amsterdam%22]\",\"logged_in\":false,\"channel\":\"web\",\"page_type\":\"listing_results\",\"site\":\"funda\",\"site_section\":\"listings\",\"filters\":[{\"key\":\"offering_type\",\"value\":\"buy\"},{\"key\":\"availability\",\"value\":[\"available\",\"negotiations\"]},{\"key\":\"zoning\",\"value\":[\"residential\"]},{\"key\":\"type\",\"value\":[\"single\"]}],\"page_no\":1,\"results_total\":5322,\"search_locations\":[{\"location\":\"Amsterdam\",\"location_type\":\"city\"}],\"search_offering_type\":\"koop\",\"search_radius\":\"0\",\"sort_order\":\"relevance\",\"listings\":[{\"display_order\":0,\"global_id\":7305080,\"placement\":\"listing_results_top_position\"},{\"display_order\":1,\"global_id\":7606403,\"placement\":\"listing_results_top_position\"},{\"display_order\":2,\"global_id\":7922924,\"placement\":\"listing_results_top_position\"},{\"display_order\":3,\"global_id\":7925304,\"placement\":\"listing_results_normal\",\"status\":\"available\"},{\"display_order\":4,\"global_id\":7925295,\"placement\":\"listing_results_promo\",\"status\":\"available\"},{\"display_order\":5,\"global_id\":7925202,\"placement\":\"listing_results_normal\",\"status\":\"available\"},{\"display_order\":6,\"global_id\":7925177,\"placement\":\"listing_results_normal\",\"status\":\"available\"},{\"display_order\":7,\"global_id\":7925052,\"placement\":\"listing_results_promo\",\"status\":\"available\"},{\"display_order\":8,\"global_id\":7925025,\"placement\":\"listing_results_promo\",\"status\":\"available\"},{\"display_order\":9,\"global_id\":7924962,\"placement\":\"listing_results_promo\",\"status\":\"available\"},{\"display_order\":10,\"global_id\":7924949,\"placement\":\"listing_results_normal\",\"status\":\"available\"},{\"display_order\":11,\"global_id\":7924945,\"placement\":\"listing_results_promo\",\"status\":\"available\"},{\"display_order\":12,\"global_id\":7924782,\"placement\":\"listing_results_normal\",\"status\":\"available\"},{\"display_order\":13,\"global_id\":7924702,\"placement\":\"listing_results_normal\",\"status\":\"available\"},{\"display_order\":14,\"global_id\":7924690,\"placement\":\"listing_results_normal\",\"status\":\"available\"},{\"display_order\":15,\"global_id\":7924680,\"placement\":\"listing_results_normal\",\"status\":\"available\"},{\"display_order\":16,\"global_id\":7924653,\"placement\":\"listing_results_promo\",\"status\":\"available\"},{\"display_order\":17,\"global_id\":7924555,\"placement\":\"listing_results_promo\",\"status\":\"available\"}]}},\"h\":\"180865a9\",\"tb\":1773596606453,\"ts\":[{\"d\":0,\"i\":0}]}]"
+        },
+        {
+          "name": "https://www.funda.nl_oeu1773596589599r0.044123336708440264$$18146640370$$layer_map",
+          "value": "{}"
+        },
+        {
+          "name": "https://www.funda.nl_oeu1773596589599r0.044123336708440264$$18146640370$$tracker_optimizely",
+          "value": "{}"
+        },
+        {
+          "name": "https://www.funda.nl_oeu1773596589599r0.044123336708440264$$18146640370$$visitor_profile",
+          "value": "{\"profile\":{\"visitorId\":\"oeu1773596589599r0.044123336708440264\",\"customBehavior\":{},\"first_session\":true,\"browserId\":\"gc\",\"browserVersion\":\"145.0.0.0\",\"device\":\"desktop\",\"device_type\":\"desktop_laptop\",\"queryParams\":[[\"selected_area\",\"%5B%22amsterdam%22%5D\"]],\"referrer\":\"https://www.funda.nl/\",\"source_type\":\"direct\"},\"metadata\":{\"visitorId\":{},\"events\":{},\"customBehavior\":{},\"first_session\":{},\"browserId\":{},\"browserVersion\":{},\"device\":{},\"device_type\":{},\"queryParams\":{},\"referrer\":{},\"source_type\":{}}}"
+        },
+        {
+          "name": "https://www.funda.nl_oeu1773596589599r0.044123336708440264$$18146640370$$contextual_mab",
+          "value": "{}"
+        },
+        {
+          "name": "https://www.funda.nl_oeu1773596589599r0.044123336708440264$$18146640370$$events",
+          "value": "[{\"eb\":{\"n\":\"Homepage Viewed\",\"y\":\"custom\",\"c\":\"other\",\"o\":{\"site_locale\":\"nl\",\"full_path\":\"/\",\"full_url\":\"https://www.funda.nl/\",\"logged_in\":false,\"channel\":\"web\",\"page_type\":\"homepage\",\"site\":\"funda\",\"site_section\":\"homepage\",\"homepage_version\":\"new_homepage\",\"listing_offering_type\":\"koop\"}},\"h\":\"15e436c4\",\"tb\":1773596589835,\"ts\":[{\"d\":0,\"i\":0}]}]"
+        },
+        {
+          "name": "https://www.funda.nl_oeu1773596589599r0.044123336708440264$$18146640370$$variation_map",
+          "value": "{}"
+        }
+      ]
+    },
+    {
+      "origin": "https://ads.pubmatic.com",
+      "localStorage": [
+        {
+          "name": "PubMatic",
+          "value": "{\"157253\":{\"t\":1773596607028,\"c\":\"CQhG6EAQhG6EAAHABBENCVFgAP_gAAEAABpYGotBzC5dRAFCCCZwYJsAOQQVoNAAJEQgAAIAAgABgAKAIAQCkEEAFADAAAACAAAAIAABAAJAEAAAAAAAAAAAAAAAQAAAAAIIIAAAgAIBAAAIAAAAAAAAQAAAgAACAAAAkAAAAIIAQEAAAAACBVkAsABYADwAqgBiADeAH4AjgBIgDFAGvAVYAKSgAwABBg4pABgACDBw6ADAAEGDgkAGAAIMHFoAMAAQYOAA.IGotBzC5dRAFCCCZwYJsAOQQVoNAAJEQgAAIAAgABgAKAIAQCkEEAFADAAAACAAAAIAABAAJAEAgAAAAAAAAAAAAAQAAAAAIIIAAAgAIBAAAIAAAAAAAAQAAAgAACAAAAkAAAAIIAQEAAAAACAAA.f_wAACAAAAAA\",\"g\":\"1\"},\"157743\":{\"t\":1773596591511,\"c\":\"CQhG6EAQhG6EAAHABBENCVFgAP_gAAEAABpYGotBzC5dRAFCCCZwYJsAOQQVoNAAJEQgAAIAAgABgAKAIAQCkEEAFADAAAACAAAAIAABAAJAEAAAAAAAAAAAAAAAQAAAAAIIIAAAgAIBAAAIAAAAAAAAQAAAgAACAAAAkAAAAIIAQEAAAAACBVkAsABYADwAqgBiADeAH4AjgBIgDFAGvAVYAKSgAwABBg4pABgACDBw6ADAAEGDgkAGAAIMHFoAMAAQYOAA.IGotBzC5dRAFCCCZwYJsAOQQVoNAAJEQgAAIAAgABgAKAIAQCkEEAFADAAAACAAAAIAABAAJAEAgAAAAAAAAAAAAAQAAAAAIIIAAAgAIBAAAIAAAAAAAAQAAAgAACAAAAkAAAAIIAQEAAAAACAAA.f_wAACAAAAAA\",\"g\":\"1\"}}"
+        }
+      ]
+    },
+    {
+      "origin": "https://eus.rubiconproject.com",
+      "localStorage": [
+        {
+          "name": "khaos",
+          "value": "MMS1M7K9-1P-EVD8"
+        },
+        {
+          "name": "pux",
+          "value": "1185=142026&1986=142026&2149=142026&2238=142026&2249=142026&2307=142026&2676=142026&2861=142026&2974=142026&3664=142026&3858=142026&4112=142026&4114=142026&4858=142026&a9eu=142026&2179-eu=142026&2179-na=142026&idl=142026&2249-DV360-Hosted=142026&goog=142026&a9us=142026&tapad-crossdevice=142026&pb_adaptmx=142026&connatix=142026&pb_appneuxs=142026&sovrn=142026&primis=142026&pbs-yahoo-exchange=142026&share-through=142026&seedtag=142026&unruly=142026&minute_media=142026&"
+        },
+        {
+          "name": "fcap",
+          "value": "{\"seedtag\":{\"cap\":1,\"exp\":1773682991.617}}"
+        }
+      ]
+    },
+    {
+      "origin": "https://csync.smartadserver.com",
+      "localStorage": [
+        {
+          "name": "sas_euconsent_v2",
+          "value": "CQhG6EAQhG6EAAHABBENCVFgAP_gAAEAABpYGotBzC5dRAFCCCZwYJsAOQQVoNAAJEQgAAIAAgABgAKAIAQCkEEAFADAAAACAAAAIAABAAJAEAAAAAAAAAAAAAAAQAAAAAIIIAAAgAIBAAAIAAAAAAAAQAAAgAACAAAAkAAAAIIAQEAAAAACBVkAsABYADwAqgBiADeAH4AjgBIgDFAGvAVYAKSgAwABBg4pABgACDBw6ADAAEGDgkAGAAIMHFoAMAAQYOAA.IGotBzC5dRAFCCCZwYJsAOQQVoNAAJEQgAAIAAgABgAKAIAQCkEEAFADAAAACAAAAIAABAAJAEAgAAAAAAAAAAAAAQAAAAAIIIAAAgAIBAAAIAAAAAAAAQAAAgAACAAAAkAAAAIIAQEAAAAACAAA.f_wAACAAAAAA"
+        },
+        {
+          "name": "sas_addtl_euconsent_v2",
+          "value": "2~1097.2072.2608.4831~dv."
+        }
+      ]
+    }
+  ]
+}
