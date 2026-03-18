@@ -22,5 +22,7 @@ test('GDPR popup @smoke', async ({ browser }) => {
     await pageWithPopup.agreeConsent();
     await expect(popupLocator).toBeHidden();
 
-    await page.context().storageState({ path: 'data/gdpr-state.json' });
+    // it would make sense without bot detection 
+    // to run this test as a setup function and save the state
+    //await page.context().storageState({ path: 'data/gdpr-state.json' });
 });

@@ -63,15 +63,21 @@ test.describe('Smoke tests for property card @smoke', () => {
     for (const { searchType } of searches) {
         test(`test property card information ${searchType}`, async ({ page }, testInfo) => {
             const propertyPage = await openPropertyPage(page, searchType, testInfo.project.name);
+            
+            //expect that the title address is not empty
             await expect (propertyPage.addressTitleLocator).not.toBeEmpty();
+            
+            //expect that the initial description is not empty 
             await expect (propertyPage.descriptionLocatorHeader).toBeVisible()
             await expect (propertyPage.descriptionLocatorHeader).not.toBeEmpty();
 
             await propertyPage.expandDescription();
 
+            //expect that the the full description is visible 
             await expect(propertyPage.descriptionLocator).toBeAttached();
             await expect(propertyPage.descriptionLocator).toBeVisible();
             await expect(propertyPage.descriptionLocator).toHaveAttribute('data-state', 'open');
+            await expect (propertyPage.descriptionLocator).not.toBeEmpty();
         });
 
         test(`test property card contact button ${searchType}`, async ({ page }, testInfo) => {
